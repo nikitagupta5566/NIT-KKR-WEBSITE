@@ -7,7 +7,7 @@
         <meta name="author" content="War Turtle">
         <title>NIT KKR || HOME</title>
         <!--linking materialize file-->
-        <link rel="stylesheet" href="../css/materialize.min.css">
+        <link rel="stylesheet" href="../stylesheet/materialize.min.css">
         <!--linking jquery file-->
         <style>
             .slant{
@@ -47,36 +47,36 @@
         </style>
     </head>
     <body>
-        
+
         <nav class="red">
     <div class="nav-wrapper">
-      <a href="#!" class="brand-logo"><img src="../image/NIT.png" width="65px"></a>
+      <a href="#!" class="brand-logo"><img src="../images/NIT.png" width="65px"></a>
       <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
-        <li><a href="#"><b>Home</b></a></li>  
-          <li><a href="#"><b>Institue</b></a></li> 
-          <li><a href="#"><b>Acedmics</b></a></li> 
+        <li><a href="#"><b>Home</b></a></li>
+          <li><a href="#"><b>Institue</b></a></li>
+          <li><a href="#"><b>Acedmics</b></a></li>
           <li><a href="#"><b>Administration</b></a></li>
-          <li><a href="#"><b>Departments</b></a></li> 
+          <li><a href="#"><b>Departments</b></a></li>
           <li><a href="#"><b>Sections</b></a></li>
           <li><a href="#"><b>Student Activites</b></a></li>
           <li><a href="#"><b>Contacts</b></a></li>
       </ul>
       <ul class="side-nav red white-text" id="mobile-demo">
-        <li><a href="#" class="white-text"><b>Home</b></a></li>  
-          <li><a href="#" class="white-text"><b>Institue</b></a></li> 
-          <li><a href="#" class="white-text"><b>Acedmics</b></a></li> 
+        <li><a href="#" class="white-text"><b>Home</b></a></li>
+          <li><a href="#" class="white-text"><b>Institue</b></a></li>
+          <li><a href="#" class="white-text"><b>Acedmics</b></a></li>
           <li><a href="#" class="white-text"><b>Administration</b></a></li>
-          <li><a href="#" class="white-text"><b>Departments</b></a></li> 
+          <li><a href="#" class="white-text"><b>Departments</b></a></li>
           <li><a href="#" class="white-text"><b>Sections</b></a></li>
           <li><a href="#" class="white-text"><b>Student Activites</b></a></li>
           <li><a href="#" class="white-text"><b>Contacts</b></a></li>
       </ul>
     </div>
   </nav>
-        
+
         <div class="parallax-container">
-    <div class="parallax"><img src="../image/kk15.jpg"/></div>
+    <div class="parallax"><img src="../images/kk15.jpg"/></div>
   </div>
   <div class="section red slant" style="height:900px;">
     <div class="row container white-text">
@@ -84,38 +84,38 @@
             <h1>NIT Kurukshetra</h1>
         </div>
         <div class="col s12"><h5>INSTITUTE OF NATIONAL IMPORTANCE</h5></div>
-        
+
     </div>
-      
+
       <div class="chip">
-    <img src="../image/tech.jpg" alt="Contact Person">
+    <img src="../images/tech.jpg" alt="Contact Person">
        <a href="#">Techspardha 2018</a>
   </div>
-    
+
     <div class="chip">
-    <img src="../image/conf.jpg" alt="Contact Person">
+    <img src="../images/conf.jpg" alt="Contact Person">
         <a href="#">Confluence 2018</a>
   </div>
-      
+
     <div class="chip">
-    <img src="../image/volley.jpeg" alt="Contact Person">
+    <img src="../images/volley.jpeg" alt="Contact Person">
         <a href="#"> Inter NIT volleyball Tournament 2018</a>
   </div>
-    
+
     <div class="chip">
-    <img src="../image/ak.jpeg" alt="Contact Person">
+    <img src="../images/ak.jpeg" alt="Contact Person">
         <a href="#"> Autokriti</a>
   </div>
-   
+
      <div class="chip">
-    <img src="../image/altius1.jpg">
+    <img src="../images/altius1.jpg">
         <a href="#"> Altius </a>
   </div>
-      
+
       <div class="slider" >
     <ul class="slides">
       <li>
-        <img src="../image/ravi.jpg"> <!-- random image -->
+        <img src="../images/ravi.jpg"> <!-- random image -->
         <div class="caption right-align">
             <h2 class="red-text">
             Institute of National Importance
@@ -123,31 +123,31 @@
         </div>
       </li>
       <li>
-        <img src="../image/altius.jpg"> <!-- random image -->
+        <img src="../images/altius.jpg"> <!-- random image -->
         <div class="caption left-align">
           <h2 class="red-text">Feel The Tech</h2>
         </div>
       </li>
       <li>
-        <img src="../image/v2.jpg"> <!-- random image -->
+        <img src="../images/v2.jpg"> <!-- random image -->
         <div class="caption right-align">
           <h2 class="red-text">The Colosseum</h2>
         </div>
       </li>
       <li>
-        <img src="../image/nationalinstituteoftechnologykurukshetra.JPG"> <!-- random image -->
+        <img src="../images/nationalinstituteoftechnologykurukshetra.JPG"> <!-- random image -->
         <div class="caption center-align">
           <h2 class="red-text">Coming Soon...</h2>
         </div>
       </li>
     </ul>
   </div>
-        
+
     </div>
   <div class="parallax-container">
-    <div class="parallax"><img src="../image/kk13.jpg"></div>
-  </div>   
-        
+    <div class="parallax"><img src="../images/kk13.jpg"></div>
+  </div>
+
         <footer class="page-footer red">
           <div class="container">
             <div class="row">
@@ -178,7 +178,7 @@
                             <li><a class="white-text" href="#!">Login</a></li>
                         </ul>
                     </div>
-        
+
             </div>
           </div>
           <div class="footer-copyright">
@@ -187,9 +187,9 @@
             </div>
           </div>
         </footer>
-        
-        <script src="../js/jquery-3.2.1.min.js"></script>
-        <script src="../js/materialize.min.js"></script>
+
+        <script src="../javascript/jquery-3.2.1.min.js"></script>
+        <script src="../javascript/materialize.min.js"></script>
         <script>
             $(document).ready(function(){
                 $('.parallax').parallax();
